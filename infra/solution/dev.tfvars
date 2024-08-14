@@ -1,0 +1,6 @@
+azure_region         = "eastus2"
+azure_environment    = "dev"
+resource_name_suffix = "550"
+apim_publisher_name  = "Cool Revive Technologies"
+apim_publisher_email = "chadgreen@chadgreen.com"
+apim_sku_name        = "Developer_1"
